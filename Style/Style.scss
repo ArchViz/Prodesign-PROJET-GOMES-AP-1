@@ -185,10 +185,10 @@ html {
 
     .a-enter-vr {
         background-image: url('./Images/PNG/VR-icon.png');
-        display: flex;
-
+        display: none;
+        
         .a-enter-vr-button {
-            display: flex;
+            display: none;
 
         }
     }
